@@ -49,5 +49,5 @@ node index.js
 |--|--|
 | GET /slots | get list of booked slots |
 | POST /slots | book new slot | 
-| PUT /slots | update a slot | 
+| PUT /slots/:slot | update a slot | 
 | GET /slots/:slot | get details of specific slot |
