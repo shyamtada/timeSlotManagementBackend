@@ -17,7 +17,7 @@ Using MySQL version 8.0
 Connect To Mysql root user to create user for our backend
 
 ```
-CREATE USER 'server'@'localhost'IDENTIFIED WITH mysql_native_password BY 'backend@123';
+CREATE USER 'server'@'localhost' IDENTIFIED WITH mysql_native_password BY 'backend@123';
 ```
 
 Grant Privileges to this user
